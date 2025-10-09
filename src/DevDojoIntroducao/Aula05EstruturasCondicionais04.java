@@ -1,6 +1,6 @@
 package DevDojoIntroducao;
 
-public class Aula05EstruturasDeRepeticao04 {
+public class Aula05EstruturasCondicionais04 {
     public static void main(String[] args) {
           double salarioAnual = 70000;
           double primeiraFaixa = 9.70 / 100;

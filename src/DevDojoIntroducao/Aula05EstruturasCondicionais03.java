@@ -1,6 +1,6 @@
 package DevDojoIntroducao;
 
-public class Aula05EstruturasDeRepeticao03 {
+public class Aula05EstruturasCondicionais03 {
     public static void main(String[] args) {
 
         // Doar se salario > 5000

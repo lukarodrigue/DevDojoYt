@@ -1,6 +1,6 @@
 package DevDojoIntroducao;
 
-public class Aula05EstruturasDeRepeticao06 {
+public class Aula05EstruturasCondicionais06 {
     public static void main(String[] args) {
         // Utilizando o Switch e dados os Valores de 1 a 7 imprima se e dia util ou final de semana
         // considerando 1 como domingo
