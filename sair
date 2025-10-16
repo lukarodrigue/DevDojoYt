@@ -1,0 +1,134 @@
+[33mcommit 0902aec55e6ad4dd43592adfb71ae561bff753d0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Mon Oct 13 00:47:15 2025 -0300
+
+    Aula07Arrays02 ex: com loop for
+
+[33mcommit 2fe623710596dae6351569862ede56d7441eff23[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Mon Oct 13 00:12:36 2025 -0300
+
+    Aula07Arrays02
+
+[33mcommit 84af1c2167ee47dbbf9f96a2ca77732805f858c1[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Sun Oct 12 23:46:20 2025 -0300
+
+    Aula07Arrays01
+
+[33mcommit 518da240ea0cd6a7aca3c73debd3e9f02ff4a183[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Sun Oct 12 20:28:32 2025 -0300
+
+    Aula06EstruturasDeRepeticao05
+
+[33mcommit fb8c088074aca33e967f1ab741b9b60724066ae8[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Thu Oct 9 01:15:58 2025 -0300
+
+    Aula06EstruturasDeRepeticao04
+
+[33mcommit 6727d662ce97072104c3e216d2d110a8a274ca78[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Thu Oct 9 01:01:30 2025 -0300
+
+    Aula06EstruturasDeRepeticao03
+
+[33mcommit 3afe9a6c933f46f4e90546d96c2f5f04822cfaa4[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Thu Oct 9 00:53:10 2025 -0300
+
+    Aula06EstruturasDeRepeticao02
+
+[33mcommit 9aa7011698233e7a3cf422ce687e657807253f20[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Thu Oct 9 00:43:08 2025 -0300
+
+    Aula06EstruturasDeRepeticao01
+
+[33mcommit f53cb70e0284a514dba4ac6934460aab951e3d11[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Thu Oct 9 00:02:14 2025 -0300
+
+    alteracao dos nomes dos arquivos
+
+[33mcommit f693c05e4699e67f19dc68ac13622f734977cc49[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Wed Oct 8 01:00:38 2025 -0300
+
+    Aula05EstruturaDeRepeticao06]
+
+[33mcommit de8319c71f9aeaefe1f5368a18c151da6a737e7f[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Wed Oct 8 00:48:26 2025 -0300
+
+    Aula05EstruturaDeRepeticao05
+
+[33mcommit c27f52d81c0edf1ff669b57b521b8ccb27a67ec2[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Wed Oct 8 00:11:56 2025 -0300
+
+    Aula05EstruturasDeRepeticao04
+
+[33mcommit aefa8ab30b83ffcfce71f8ec6f33098294e9c3ba[m
+Merge: 17d97a0 7dab796
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Tue Oct 7 00:52:59 2025 -0300
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 17d97a05705c3d42bad518d3fc04f01769e0ce20[m
+Merge: 450015a 1cf9493
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Sat Oct 4 00:52:26 2025 -0300
+
+    Aula05EstruturasDeRepeticao03
+
+[33mcommit 7dab7962c4459baf30b471a8240089b1eb2f6f8a[m
+Merge: 450015a 1cf9493
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Sat Oct 4 00:52:26 2025 -0300
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 450015a431004a98e35b8480ed5d5bc295ca9ebd[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Sat Oct 4 00:49:51 2025 -0300
+
+    Aula5EstruturasCondicionais01&&02
+
+[33mcommit 79b4b5a59d6f78a656ac977b136f8ba62210608a[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Sat Oct 4 00:12:51 2025 -0300
+
+    Aula4Operadores
+
+[33mcommit 1cf9493b06774443fb0b69a96848a70058b8975c[m
+Author: Luka Rodrigues Gonçalves <158090945+lukarodrigue@users.noreply.github.com>
+Date:   Thu Oct 2 01:17:04 2025 -0300
+
+    Create README.md
+
+[33mcommit 9c7f9bbadc1f91d6cc9b18eb4d8c583f08db11ae[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Thu Oct 2 01:15:25 2025 -0300
+
+    Aula4Operadores
+
+[33mcommit 0055ab3e0aaf23a7b3956831f271a3f8a989c096[m
+Author: luka <lukarodrigues25@gmail.com>
+Date:   Wed Jul 9 11:15:16 2025 -0400
+
+    Aula3
+
+[33mcommit e248c8f0a5113e4b9344f4d2ec686c48f0948ecd[m
+Author: luka <lukarodrigues25@gmail.com>
+Date:   Wed Jul 9 09:59:23 2025 -0400
+
+    Aula2
+
+[33mcommit b431bde5641bcf67b4db3c87747435f3350030f0[m
+Author: luka rodrigues goncalves <lukarodrigues25@gmail.com>
+Date:   Tue Jul 8 23:02:04 2025 -0400
+
+    first commit
